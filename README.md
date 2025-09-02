@@ -1,4 +1,4 @@
-# Orders Search React App
+# Orders Search App (Assessment)
 
 A **React + Vite + TypeScript + Tailwind** web application for searching and viewing orders.  
 Supports filtering by **date range** and **status** (`Waiting`, `Completed`, `Rejected`),  
