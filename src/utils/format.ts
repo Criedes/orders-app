@@ -1,0 +1,2 @@
+export const fmtNumber = new Intl.NumberFormat(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 2 });
+export const fmtDateTime = (iso?: string) => iso ? new Date(iso).toLocaleString() : '-';
