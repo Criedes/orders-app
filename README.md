@@ -78,7 +78,7 @@ src/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [React 18](https://reactjs.org/)  
 - [Vite 5](https://vitejs.dev/)  
